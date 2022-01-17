@@ -14,3 +14,5 @@
 6. day 6 report
 
 7. day 7 report
+
+8. day 8 report
