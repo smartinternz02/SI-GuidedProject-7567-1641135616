@@ -18,3 +18,7 @@
 8. day 8 report
 
 9. day 9 report
+
+10. day 10 report
+
+----------------------------------- TOTAL PROJECT REPORT COMPLETED IN COLLEGE MANAGEMENT APPLICATION ----------------------------------------------------
